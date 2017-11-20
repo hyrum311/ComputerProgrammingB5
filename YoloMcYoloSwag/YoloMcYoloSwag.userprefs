@@ -1,0 +1,13 @@
+﻿<Properties StartupConfiguration="{DC70CC6E-2092-4370-8F5A-9029DAFBA700}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="YoloMcYoloSwag/Program.cs">
+    <Files>
+      <File FileName="YoloMcYoloSwag/Program.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
